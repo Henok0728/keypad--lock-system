@@ -1,4 +1,4 @@
-// Blinking light
+#include <Arduino.h>
 int led1 = 13;
 int led2 = 12;
 int led3 = 11;
@@ -19,7 +19,5 @@ void loop() {
   delay(1500);
   digitalWrite(led3,LOW);
   delay(1000);
- 
-  // put your main code here, to run repeatedly:
 
 }
