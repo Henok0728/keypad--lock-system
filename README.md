@@ -1,5 +1,5 @@
 # Embedded-System-Project 1 Keypad lock system
-<img src="assets/key_pad.gif" width="560"/>
+<img src="assets/key_pad.gif" width="500"/>
 <div align="center">...</div>
 <br/>
 <br/>
