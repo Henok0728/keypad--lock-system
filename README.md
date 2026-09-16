@@ -1,6 +1,6 @@
 # Embedded-System-Project 1 Keypad lock system
 <div align="center">
-  <img src="assets/key_pad.gif" width="500"/>
+  <img src="assets/key_pad.gif" width="560"/>
 </div>
 <br/>
 <br/>
