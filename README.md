@@ -1,2 +1,6 @@
-# Embedded-systems
-A learning repository Where I share some of my personal embedded and IOT projects related with Arduino , free to try my code for your project if u are interested in embedded systems. Have fun !
+# Embedded-System-Project 1 Keypad lock system
+<img src="assets/key_pad.gif" width="560"/>
+<div align="center">...</div>
+<br/>
+<br/>
+Simple lock in system designed to randomly changing password everytime user entered in for extra security (for fun). 
